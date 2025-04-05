@@ -21,7 +21,7 @@
 
 Projet réalisé avec **Unreal Engine 5**.  
 
-Embarquez dans une course contre la montre effrainée sur une route arc-en-ciel sans dessus-dessous  ! Détruiser des asteroides pour regargner de la puissance de boost pour aller encore plus vite !
+Carnival Unreal est une expérience permmettant de se balader dans une mini fête foraine. Ce projet
 
 ### Touches <a name="InputFr"></a>
 #### Clavier :
