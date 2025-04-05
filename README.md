@@ -21,7 +21,8 @@
 
 Projet réalisé avec **Unreal Engine 5**.  
 
-Carnival Unreal est une expérience permmettant de se balader dans une mini fête foraine. Ce projet
+Carnival Unreal est une expérience permettant de se balader dans une mini fête foraine. Ce projet est mon premier sur Unreal Engine, il m'a permis de découvrir le moteur et de réaliser mes 1er mécaniques.
+
 
 ### Touches <a name="InputFr"></a>
 #### Clavier :
@@ -29,30 +30,13 @@ Carnival Unreal est une expérience permmettant de se balader dans une mini fêt
 |---|---|
 | Z | Avancer |
 | S | Reculer |
-| QD | Tourner |
-| Shift | Boost |
-| Clic gauche | Tir |
-| Déplacement de la souris | Viseur |
-| E / Echap | Pause |
+| Q | Aller à gauche |
+| D | Aller à droite |
+| D | Sauter |
+| Clic gauche | Tir dans le chamboule-tout |
+| Déplacement de la souris | Viseur dans le chamboule-tout |
+| 0 | Quitter une attraction |
 
-
-#### Manette :
-| Touches | Action |
-|---|---|
-| RT | Avancer |
-| Gamepad Face Bouton Gauche | Reculer |
-| Joystick de droite | Tourner |
-| Gamepad Face Bouton Bas | Boost |
-| LB | Tir |
-| Joystick de gauche | Viseur |
-| Gamepad Spécial Droite | Pause |
-
-
-
-### Bug connus (issus d'un manque de temps) <a name="GlitchFr"></a>
-
-* Pas de menu de selection de vaisseau lors du replay après une partie
-* Vaisseau bleu par défaut lors du replay en menu pause
 
 
 ## English <a name="Anglais"></a>
@@ -61,7 +45,7 @@ Carnival Unreal est une expérience permmettant de se balader dans une mini fêt
 
 Project realised with **Unreal Engine 5**.  
 
-Embark on a frantic race against time on a topsy-turvy rainbow road! Destroy asteroids to regain boost power and go even faster!
+Carnival Unreal is an experience that lets you stroll through a mini carnival. This project was my first on the Unreal Engine, and allowed me to discover the engine and create my 1st mechanics.
 
 
 ### Input <a name="InputEn"></a>
@@ -70,37 +54,18 @@ Embark on a frantic race against time on a topsy-turvy rainbow road! Destroy ast
 |---|---|
 | Z | Forward |
 | S | Backward |
-| QD | Turn |
-| Shift | Boost |
-| Right Click | Shoot |
-| Mouse Movement | Crosshair |
-| E / Esc | Pause |
-
-#### GamePad :
-| Touches | Action |
-|---|---|
-| RT | Forward |
-| Gamepad Face Left Button | Backward |
-| Right Joystick | Turn |
-| Gamepad Face Bottom Button | Boost |
-| LB | Shoot |
-| Left Joystick | Crosshair |
-| Gamepad Right Special | Pause |
-
-
-
-### Known Glitches (due to time constraints) <a name="GlitchEn"></a>
-
-* No ship selection menu when replaying after a game
-* Blue ship by default when replaying from the pause menu
-
+| Q | Go Left |
+| D | Go Right |
+| D | Jump |
+| Left click | Shooting in the chamboule-tout |
+| Moving the mouse | Aiming in the chamboule-tout |
+| 0 | Leaving an attraction |
 
 
 
 ## Credits <a name="Credits"></a>
 
-* Caillot Yanaël - [LinkedIn](https://www.linkedin.com/in/ycaillot/) - [GitHub](https://github.com/Dranemo)
 * Choquet Evan - [LinkedIn](https://www.linkedin.com/in/evan-choquet-a9031b265/) - [GitHub](https://github.com/Snip2Fou)
 
 ## License <a name="License"></a>
-We are the owner of this project. You are permitted to view and execute this code for evaluation or demonstration purposes only. Any modification, distribution, or commercial use is prohibited without our explicit permission.
+I am the owner of this project. You are permitted to view and execute this code for evaluation or demonstration purposes only. Any modification, distribution, or commercial use is prohibited without our explicit permission.
