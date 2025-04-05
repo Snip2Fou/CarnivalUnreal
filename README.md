@@ -1,6 +1,6 @@
 # Carnival Unreal
 
-[Release Link](https://github.com/Dranemo/Releases/releases/tag/HoverRacing)
+[Release Link](https://github.com/Snip2Fou/CarnivalUnreal/releases/tag/Release)
 
 
 ## Table of Content
@@ -17,7 +17,7 @@
 
 ## Français <a name="Francais"></a>
 
-***Projet réalisé en une semaine dans la cadre de mes études au [Gaming Campus](https://gamingcampus.fr) en Mars 2025.***  
+***Projet réalisé en une semaine dans la cadre de mes études au [Gaming Campus](https://gamingcampus.fr) en Janvier 2025.***  
 
 Projet réalisé avec **Unreal Engine 5**.  
 
@@ -41,7 +41,7 @@ Carnival Unreal est une expérience permettant de se balader dans une mini fête
 
 ## English <a name="Anglais"></a>
 
-***Project completed in one week as part of my studies at [Gaming Campus](https://gamingcampus.fr) in March 2025.***  
+***Project completed in one week as part of my studies at [Gaming Campus](https://gamingcampus.fr) in January 2025.***  
 
 Project realised with **Unreal Engine 5**.  
 
