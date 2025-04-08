@@ -32,7 +32,7 @@ Carnival Unreal est une expérience permettant de se balader dans une mini fête
 | S | Reculer |
 | Q | Aller à gauche |
 | D | Aller à droite |
-| D | Sauter |
+| ESPACE | Sauter |
 | Clic gauche | Tir dans le chamboule-tout |
 | Déplacement de la souris | Viseur dans le chamboule-tout |
 | 0 | Quitter une attraction |
@@ -56,7 +56,7 @@ Carnival Unreal is an experience that lets you stroll through a mini carnival. T
 | S | Backward |
 | Q | Go Left |
 | D | Go Right |
-| D | Jump |
+| SPACE | Jump |
 | Left click | Shooting in the chamboule-tout |
 | Moving the mouse | Aiming in the chamboule-tout |
 | 0 | Leaving an attraction |
